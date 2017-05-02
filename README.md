@@ -14,13 +14,13 @@
   
   ### Screenshots
 * __Book List__
-    ![Classes diagram](screenshots/Book-list.png)
+    ![Book_list](screenshots/Book-list.png)
     
-* __Book List__
-    ![Classes diagram](screenshots/Book-edit.png)
+* __Book Edit__
+    ![Book_Edit](screenshots/Book-edit.png)
 
-* __Book List__
-    ![Classes diagram](screenshots/Book-create.png)
+* __Book Create__
+    ![Book_Create](screenshots/Book-create.png)
     
-* __Book List__
-    ![Classes diagram](screenshots/Book-details.png)
+* __Book Details__
+    ![Book_Details](screenshots/Book-details.png)
