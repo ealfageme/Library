@@ -9,8 +9,9 @@
   
   * __Here you have the instructions to use the app.__   
   * Clone the repository using git clone .
+  * cd Backend folder
   * Type the command 'node app.js'.
-  * The app will be running in http://localhost:4200 .
+  * The app will be running in http://localhost:8080 .
   
   ### Screenshots
 * __Book List__
